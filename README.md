@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ljd9031
+- 👋 Hi, I’m @Bonnenult
 - 👀 I’m interested in programming and animation
 - 🌱 I’m currently learning golang and its related things
 - 💞️ I’m looking to collaborate on programming together with a front-end programmer
